@@ -1,0 +1,8 @@
+[package]
+name = "oxidize-demo"
+version = "0.1.0"
+authors = ["fpsulli3 <fpsulli3@gmail.com>"]
+
+[dependencies]
+
+oxidize = { path = "../oxidize" }
